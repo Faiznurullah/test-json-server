@@ -1,18 +1,22 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "title": "Ahmad",
+      "author": "James Bond",
+      "id": 4
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Edi",
+      "author": "Edi Bond",
+      "id": 5
+    },
+    {
+      "title": "Judul",
+      "author": "Tyne Bond",
+      "id": 6
     }
   ],
+  "comments": [],
   "profile": {
     "name": "typicode"
   }
